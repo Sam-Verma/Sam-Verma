@@ -1,51 +1,44 @@
 # Hi there, I'm Shivam Krishna 👋
 
-### Python Full Stack Engineer | Generative AI Enthusiast
+### Backend Engineer | Distributed Systems | GenAI (RAG, AI Agents, MCP)
 
-I am a full stack engineer based in New Delhi, currently building scalable systems and security analytics tools. With a strong foundation in Python frameworks and asynchronous programming, I am actively exploring the intersection of robust web architecture and Generative AI workflows. 
+I am a Backend Engineer based in New Delhi with experience building scalable APIs, distributed data pipelines, and Elasticsearch-based analytics systems. With a strong foundation in Python frameworks like Django and FastAPI, I am heavily focused on developing production-grade backend services and intelligent Generative AI applications, including multi-agent workflows and RAG pipelines.
 
 ---
 
 ### 🚀 What I'm Up To
 
-*   💼 Currently working as a **Python Full Stack Engineer** at **Innefu Labs**.
-*   🔭 Contributing to the development of **Endpoint Detection and Response (EDR)** systems and **Elasticsearch MCP** security log analysis platforms.
-*   🌱 Actively learning and building with **Generative AI**, specifically focusing on **RAG workflows**, **LLM integration**, **LangChain**, and **LlamaIndex**.
-*   👯 Looking to collaborate on open-source Python projects, AI agent architectures, and security monitoring tools.
-*   📝 Co-authored research: *"Face Recognition System Using Haar Cascade and LBP Classifier"* presented at the IC3SE International Conference (2024).
+* 💼 Working as a **Python Backend Developer** at **Innefu Labs**, building and scaling Endpoint Detection and Response (EDR) systems for 10,000+ endpoints.
+* 🤖 Developing a **Multi-Agent Research & Knowledge Retrieval System** using FastAPI, LangChain, Ollama, and Qdrant to crawl, aggregate, and generate structured reports via LLMs.
+* 🧠 Building AI-powered **MCP servers** that seamlessly convert natural language into complex analytics queries.
+* 🔭 Engineering high-throughput ETL pipelines and optimizing Elasticsearch DSL queries for low-latency search and log processing.
+* 📝 Co-authored research: *"Face Recognition System Using Haar Cascade and LBP Classifier"* presented at IC3SE (2024).
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**
-*   Python (Django, FastAPI, Flask)
+* Python, SQL, JavaScript
+* Django, FastAPI, Flask, REST APIs
 
-**Architecture & Infrastructure**
-*   Docker, Celery (Asynchronous task queues)
+**AI & Generative AI**
+* LangChain, OpenAI, Ollama, Hugging Face
+* RAG Architectures, Vector Search, AI Agents, MCP
 
-**Data, Search & Security**
-*   ELK Stack (Elasticsearch, Logstash, Kibana)
-*   Log Analysis, Threat Hunting methodologies 
+**Databases & Storage**
+* PostgreSQL, MySQL, MongoDB, Redis
+* Qdrant (Vector Database)
 
-**AI & Orchestration**
-*   Large Language Models (LLMs), RAG architectures, LangChain, LlamaIndex
-
----
-
-### 🎓 Education
-
-*   **B.Tech in Computer Science and Engineering** 
-    Galgotias University (2020 – 2024)
+**Infrastructure, Search & DevOps**
+* Elasticsearch, Logstash, Kibana (ELK Stack)
+* Docker, AWS (EC2, S3, RDS, IAM), Nginx, Gunicorn, Celery
+* Git, GitLab CI/CD, Linux, Microservices
 
 ---
 
 ### 📫 Let's Connect!
 
-*   📍 **Location:** New Delhi, India
-*   🔗 **LinkedIn:** [shivam-krishna-949a81185](https://www.linkedin.com/in/shivam-krishna-949a81185/)
-*   ✉️ **Email:** [shivam.krishna.dev20@gmail.com](mailto:shivam.krishna.dev20@gmail.com)
-
-<!--
-**shivamkrishna/shivamkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+* 📍 **Location:** New Delhi, India
+* 🔗 **LinkedIn:** [shivam-krishna-949a81185](https://www.linkedin.com/in/shivam-krishna-949a81185/)
+* ✉️ **Email:** [shivam.krishna.dev20@gmail.com](mailto:shivam.krishna.dev20@gmail.com)
