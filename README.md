@@ -1,5 +1,4 @@
-```md
-<h1 align="center">Hi 👋, I'm Shivam Krishna</h1>
+<h1 algn="center">Hi 👋, I'm Shivam Krishna</h1>
 
 <h3 align="center">
 Python Full Stack Developer | Backend Engineer | Distributed Systems | GenAI
@@ -119,4 +118,3 @@ shivam.krishna.dev20@gmail.com
 <p align="center">
 ⭐️ Always learning, building, and exploring scalable systems & AI engineering.
 </p>
-```
