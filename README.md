@@ -1,44 +1,122 @@
-# Hi there, I'm Shivam Krishna 👋
+```md
+<h1 align="center">Hi 👋, I'm Shivam Krishna</h1>
 
-### Backend Engineer | Distributed Systems | GenAI (RAG, AI Agents, MCP)
+<h3 align="center">
+Python Full Stack Developer | Backend Engineer | Distributed Systems | GenAI
+</h3>
 
-I am a Backend Engineer based in New Delhi with experience building scalable APIs, distributed data pipelines, and Elasticsearch-based analytics systems. With a strong foundation in Python frameworks like Django and FastAPI, I am heavily focused on developing production-grade backend services and intelligent Generative AI applications, including multi-agent workflows and RAG pipelines.
+<p align="center">
+Building scalable backend systems, intelligent AI applications, and production-grade APIs.
+</p>
 
----
-
-### 🚀 What I'm Up To
-
-* 💼 Working as a **Python Backend Developer** at **Innefu Labs**, building and scaling Endpoint Detection and Response (EDR) systems for 10,000+ endpoints.
-* 🤖 Developing a **Multi-Agent Research & Knowledge Retrieval System** using FastAPI, LangChain, Ollama, and Qdrant to crawl, aggregate, and generate structured reports via LLMs.
-* 🧠 Building AI-powered **MCP servers** that seamlessly convert natural language into complex analytics queries.
-* 🔭 Engineering high-throughput ETL pipelines and optimizing Elasticsearch DSL queries for low-latency search and log processing.
-* 📝 Co-authored research: *"Face Recognition System Using Haar Cascade and LBP Classifier"* presented at IC3SE (2024).
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**
-* Python, SQL, JavaScript
-* Django, FastAPI, Flask, REST APIs
-
-**AI & Generative AI**
-* LangChain, OpenAI, Ollama, Hugging Face
-* RAG Architectures, Vector Search, AI Agents, MCP
-
-**Databases & Storage**
-* PostgreSQL, MySQL, MongoDB, Redis
-* Qdrant (Vector Database)
-
-**Infrastructure, Search & DevOps**
-* Elasticsearch, Logstash, Kibana (ELK Stack)
-* Docker, AWS (EC2, S3, RDS, IAM), Nginx, Gunicorn, Celery
-* Git, GitLab CI/CD, Linux, Microservices
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Backend+Engineer;Distributed+Systems+Enthusiast;Building+GenAI+%7C+RAG+%7C+AI+Agents" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
+## 🚀 About Me
 
-* 📍 **Location:** New Delhi, India
-* 🔗 **LinkedIn:** [shivam-krishna-949a81185](https://www.linkedin.com/in/shivam-krishna-949a81185/)
-* ✉️ **Email:** [shivam.krishna.dev20@gmail.com](mailto:shivam.krishna.dev20@gmail.com)
+- 💻 **Python Full Stack Developer** with experience building scalable APIs, distributed systems, and AI-powered applications.
+- ⚡ Worked on **Endpoint Detection & Response (EDR)** systems handling **10,000+ endpoints** and large-scale security analytics.
+- 🤖 Building **production-grade GenAI systems**, including **RAG pipelines, Multi-Agent AI systems, and MCP servers**.
+- 🔍 Experienced in **Elasticsearch**, high-throughput ETL pipelines, and low-latency search systems.
+- 🧠 Strong focus on **system design, scalable backend architecture, and intelligent automation**.
+- 📝 Co-authored research paper:  
+  **"Face Recognition System Using Haar Cascade and LBP Classifier"** *(IC3SE 2024)*
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend & Full Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### 🤖 AI / GenAI
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+
+**GenAI Expertise:**  
+`RAG` • `AI Agents` • `Vector Search` • `MCP` • `Multi-Agent Systems`
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
+
+### 🔍 Search, DevOps & Infrastructure
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 AI Research Agent Platform
+Production-grade **multi-agent research system** inspired by Perplexity/Deep Research.
+
+**Tech:** FastAPI, PostgreSQL, Redis, Qdrant, LangGraph, Ollama, OpenAI, Docker
+
+**Features**
+- Multi-agent orchestration
+- RAG-powered retrieval
+- Web search & intelligent report generation
+- Async architecture for scalability
+
+---
+
+### 🔹 EDR Analytics & Security Backend
+Scalable backend system for **endpoint security monitoring and analytics**.
+
+**Highlights**
+- Managed high-volume endpoint telemetry
+- Elasticsearch query optimization
+- ETL pipelines for security logs
+- Low-latency search & analytics
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📍 **Location:** New Delhi, India  
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/shivam-krishna-949a81185/
+
+📧 **Email:**  
+shivam.krishna.dev20@gmail.com
+
+---
+
+<p align="center">
+⭐️ Always learning, building, and exploring scalable systems & AI engineering.
+</p>
+```
