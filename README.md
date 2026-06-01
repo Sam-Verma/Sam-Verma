@@ -93,13 +93,24 @@ Scalable backend system for **endpoint security monitoring and analytics**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam-Verma&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Verma" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Verma&theme=tokyonight&hide_border=true"
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Verma&layout=compact" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sam-Verma&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=Sam-Verma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+  />
+</p>
+
 
 ---
 
