@@ -17,7 +17,7 @@ Building scalable backend systems, intelligent AI applications, and production-g
 ## 🚀 About Me
 
 - 💻 **Python Full Stack Developer** with experience building scalable APIs, distributed systems, and AI-powered applications.
-- ⚡ Worked on **Endpoint Detection & Response (EDR)** systems handling **10,000+ endpoints** and large-scale security analytics.
+- ⚡ Worked on **Endpoint Detection & Response (EDR)** systems handling **15,000+ endpoints** and large-scale security analytics.
 - 🤖 Building **production-grade GenAI systems**, including **RAG pipelines, Multi-Agent AI systems, and MCP servers**.
 - 🔍 Experienced in **Elasticsearch**, high-throughput ETL pipelines, and low-latency search systems.
 - 🧠 Strong focus on **system design, scalable backend architecture, and intelligent automation**.
